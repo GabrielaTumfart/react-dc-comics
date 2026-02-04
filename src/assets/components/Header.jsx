@@ -14,9 +14,10 @@ export default function Header() {
                 <li>VIDEOS</li>
                 <li>FANS</li>
                 <li>NEWS</li>
-                <li>SHOPT</li>
+                <li>SHOP</li>
             </ul>
         </nav>
 
-    </header>)
+    </header>
+    )
 }
