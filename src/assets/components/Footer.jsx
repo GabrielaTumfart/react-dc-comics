@@ -1,3 +1,19 @@
 export default function Footer() {
-    return <footer>Questo è il Footer</footer>
+    return (
+
+        <footer>
+
+            {/* PARTE SUPERIORE */}
+
+            <div>
+
+                
+            </div>
+
+
+
+
+
+        </footer>
+    ) 
 }
