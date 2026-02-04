@@ -1,5 +1,7 @@
 
 import Header from './assets/componets/Header'
+import Main from './assets/componets/Main'
+import Footer from './assets/componets/Footer'
 import reactLogo from './assets/img/react.svg'
 import viteLogo from '/vite.svg'
 
