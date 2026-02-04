@@ -1,3 +1,22 @@
 export default function Header() {
-    return <header>Questo è il Header</header>
+    return (
+    
+    <header>
+        <img src="/src/assets/img/dc-logo.png" alt="DC Logo"/>
+        <nav>
+            <ul>
+                <li>CHARACTERS</li>
+                <li>COMICS</li>
+                <li>MOVIES</li>
+                <li>TV</li>
+                <li>GAMES</li>
+                <li>COLLECTIBLES</li>
+                <li>VIDEOS</li>
+                <li>FANS</li>
+                <li>NEWS</li>
+                <li>SHOPT</li>
+            </ul>
+        </nav>
+
+    </header>)
 }
