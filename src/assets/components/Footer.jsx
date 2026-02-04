@@ -82,6 +82,15 @@ export default function Footer() {
 
                 <button>SIGN-UP NOW!</button>
 
+                <div className="social">
+                    <span>FOLLOW US</span>
+                    <img src="/src/assets/img/footer-facebook.png" alt="Facebook" />
+                    <img src="/src/assets/img/footer-twitter.png" alt="Twitter" />
+                    <img src="/src/assets/img/footer-youtube.png" alt="YouTube" />
+                    <img src="/src/assets/img/footer-pinterest.png" alt="Pinterest" />
+                    <img src="/src/assets/img/footer-periscope.png" alt="Periscope" />
+                </div>
+
                 
 
                 </div>
