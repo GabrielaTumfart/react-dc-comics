@@ -14,6 +14,8 @@ export default function Main() {
                 <h2>CURRENT SERIES</h2>
             
             </div>
+
+            <button className="Load-more">LOAD MORE</button>
                 
         </section>
         
