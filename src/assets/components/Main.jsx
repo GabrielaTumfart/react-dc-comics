@@ -1,4 +1,4 @@
-import comics from "../comics";
+import comics from "/src/comics";
 
 export default function Main() {
     return (
@@ -6,11 +6,17 @@ export default function Main() {
     <main>
         
         {/* content placeholder */}
-        <div>
-            <section>
+
+        <section className="current-series">
+
+            <div className="container">
+
+                <h2>CURRENT SERIES</h2>
+            
+            </div>
                 
-            </section>
-        </div>
+        </section>
+        
 
         {/* faccia azzura */}
 
