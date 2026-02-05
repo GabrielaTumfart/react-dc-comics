@@ -7,7 +7,9 @@ export default function Main() {
         
         {/* content placeholder */}
         <div>
-            <p>Content goes here</p>
+            <section>
+                
+            </section>
         </div>
 
         {/* faccia azzura */}
