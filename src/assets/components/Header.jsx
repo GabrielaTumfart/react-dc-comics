@@ -61,6 +61,12 @@ export default function Header() {
         <img src="/src/assets/img/dc-logo.png" alt="DC Logo"/>
         <nav>
             <ul>
+            {headerLinks.map((link, index) => (
+            <li key={index} className={link.isActive ? "active" : ""}
+            >
+              <a href={link.url}>{link.text}</a>
+            </li>
+          ))}
                 
                
                 
