@@ -186,29 +186,8 @@ export default function Main() {
     
     <main>
         
-        
-        {/* content placeholder */}
+       
 
-        <section className="current-series">
-
-            <div className="container">
-
-                <h2>CURRENT SERIES</h2>
-
-                <div className="cards-grid">
-                    
-
-
-
-                </div>
-
-                
-            
-            </div>
-
-            <button className="Load-more">LOAD MORE</button>
-                
-        </section>
         
 
         {/* faccia azzura */}
