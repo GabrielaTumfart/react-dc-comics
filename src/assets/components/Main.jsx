@@ -163,10 +163,11 @@ export default function Main() {
         return (
             <> 
 
-            key={index}
+            
 
-            <div className="card">
+            <div key={index} className="card">
                 <img src={comic.thumg} alt={comic.series}/>
+                <h4>{comic.series}</h4>
 
             </div>
             
