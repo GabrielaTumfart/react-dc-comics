@@ -1,3 +1,4 @@
+import logo from "./logo";
 import comics from "/src/comics";
 
 export default function Main() {
