@@ -159,6 +159,20 @@ export default function Main() {
       ];
 
       cosnt cards = comics.map(function(comic, index) {
+        
+        return (
+            <> 
+
+            key={index}
+
+            <div className="card">
+                <img src<{comic.thumg} alt={comic.series}/>
+
+            </div>
+            
+            </>
+
+        );
 
       });
       
