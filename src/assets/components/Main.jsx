@@ -172,6 +172,12 @@ export default function Main() {
 
                 <h2>CURRENT SERIES</h2>
 
+                <div className="cards-grid">
+
+
+
+                </div>
+
                 
             
             </div>
