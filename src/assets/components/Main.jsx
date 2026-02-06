@@ -158,7 +158,7 @@ export default function Main() {
         },
       ];
       
-      export default comics
+      
 
     return (
     
