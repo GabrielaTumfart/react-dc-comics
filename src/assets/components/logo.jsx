@@ -1,8 +1,12 @@
 export default function logo() {
     return (
-        <section className="hero">
+        <figure className="hero">
+            <img src="/src/assets/img/jumbotron.jpg" alt="DC Hero">
 
-        </section>
+
+         
+
+        </figure>
 
     ) 
     
