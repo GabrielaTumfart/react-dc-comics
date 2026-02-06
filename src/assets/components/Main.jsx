@@ -157,8 +157,13 @@ export default function Main() {
           writers: ["Joëlle Jones"],
         },
       ];
+
+      cosnt cards = comics.map(function(comic, index) {
+
+      });
       
       
+
 
     return (
     
