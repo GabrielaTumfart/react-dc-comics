@@ -158,7 +158,7 @@ export default function Main() {
         },
       ];
 
-      cosnt cards = comics.map(function(comic, index) {
+      const cards = comics.map(function(comic, index) {
         
         return (
             <> 
@@ -166,7 +166,7 @@ export default function Main() {
             key={index}
 
             <div className="card">
-                <img src<{comic.thumg} alt={comic.series}/>
+                <img src={comic.thumg} alt={comic.series}/>
 
             </div>
             
@@ -183,6 +183,7 @@ export default function Main() {
     
     <main>
         
+        
         {/* content placeholder */}
 
         <section className="current-series">
@@ -192,6 +193,7 @@ export default function Main() {
                 <h2>CURRENT SERIES</h2>
 
                 <div className="cards-grid">
+                    
 
 
 
